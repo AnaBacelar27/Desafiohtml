@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(163, 208, 209);
+  h1 {
+    height: 40px;
+    color: rgb(46, 112, 187);
+    font-family: "Times New Roman", Times, serif;
+  }
+  p {
+    font-size: 120%;
+    strong {
+      color: rgb(64, 93, 133);
+    }
+  }
+  span {
+    color: rgb(64, 93, 133);
+    text-decoration: underline;
+  }
+  img {
+    width: 150px;
+  }
+  div {
+    display: flex;
+  }
+}
